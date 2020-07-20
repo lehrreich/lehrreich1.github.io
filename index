@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+
+
+
+
+
+
+<html lang="en">
+
+
+
+
+
+
+
+ <header>
+
+
+   <title>Elizabeth Ehrreich's Portal</title>
+
+
+   <link rel="stylesheet" href="css/master.css">
+
+
+   
+
+
+   
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+
+
+
+
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+   <meta name="name" content="Elizabeth Ehrreich's Portal">
+
+
+ </header>
+
+
+
+
+
+
+
+ <body>
+
+
+   <img src="images/banner2.jpg" width="50%" alt="banner">
+
+
+   <h1>Elizabeth Ehrreich's Portal</h1>
+
+
+   <h2>About Me</h2>
+
+
+   <p>I am a pragmatic team player who contributes skills in a range of professional areas, with special emphasis on public engagement, project and program management, research, analysis, and education. I am a strong communicator, both orally and in writing, learn and adapt quickly, and enjoy challenging work. As an innovative problem solver, I am results oriented and simultaneously demonstrate flexibility, creativity, and perceptiveness.</p>
+
+
+   <p>I have a M.A. in Anthropology from George Mason University and a B.A. in Anthropology with a Minor in History from George Mason University.</p>
+
+
+   <p>I currently serve the citizens of Hillsborough County as a Senior Park Ranger at Edward Medard Conservation Park.</p>
+
+
+   <h2>Credentials and Portfolio</h2>
+
+
+   <p><a href="resume.html">My Resume</a> | <a href="https://github.com/lehrreich">My GitHub</a></p>
+
+   <h2>Contact</h2>
+
+   <p>Email: <a href="mailto:lehrreich19@gmail.com">lehrreich19@gmail.com</a></p>
+ </body>
+
+ <footer>
+   <hr>
+   <code>Copyright (c) 2020 Elizabeth Ehrreich</code>
+ </footer>
+
+</html>
+
